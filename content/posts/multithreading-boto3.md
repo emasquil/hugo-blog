@@ -144,7 +144,7 @@ Bonus: Have a progress bar using [tqdm](https://github.com/tqdm/tqdm) that updat
 Although all of this seems pretty standard, it wasn't easy to find a working solution neither for using multithreading with Boto3 or using multithreading with tqdm. I hope this is useful for somebody out there having this (also) pretty standard problem.
 
 ```python
-from concurrent.futures import Threadpoolexecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from functools import partial
 import os
 
