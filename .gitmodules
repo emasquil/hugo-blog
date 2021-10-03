@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/emasquil/emasquil.github.io.git
 	branch = master
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/emasquil/hugo-theme-hello-friend-ng.git
+	branch = master
