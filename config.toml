@@ -11,7 +11,7 @@ disableRSS   = true
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "I'm a master's student and engineer based in Paris, France."
+  homeSubtitle = "I'm a master's student and engineer based in Bordeaux, France."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false

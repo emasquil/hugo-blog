@@ -201,4 +201,4 @@ Thanks for reading!
 
 I hope you now understood which features of Boto3 are threadsafe and which are not, and most importantly, that you learned how to download multiple files from S3 in parallel using Python.
 
-If you have any doubts or comments, reach out on [Twitter](https://twitter.com/emasquil) or by [email](mailto:emasquildev@gmail.com).
+If you have any doubts or comments, reach out on [Twitter](https://twitter.com/emasquil) or by [email](mailto:eliasmasquil@gmail.com).
